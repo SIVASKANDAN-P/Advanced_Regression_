@@ -1,7 +1,4 @@
-# Advanced-Regression
-Assignment submission to Upgrad
-
-# advanced-regression-upgrad
+# Advanced-Regression-Assignment
 
 ## Problem Statement - Part I
 
