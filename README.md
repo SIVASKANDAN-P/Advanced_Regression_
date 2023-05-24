@@ -38,3 +38,13 @@ After building the model, you realised that the five most important predictor va
 
 __Question 4__:
 How can you make sure that a model is robust and generalisable? What are the implications of the same for the accuracy of the model and why?
+
+## Technologies Used
+- Python 3.9
+- scikit-learn 1.0.2
+- stats model 0.13.2
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+## Contact
+Created by SIVASKANDAN-P - feel free to contact me!
+
